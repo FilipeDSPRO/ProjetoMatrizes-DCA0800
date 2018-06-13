@@ -35,7 +35,7 @@ Ou seja, genericamente falando, utilizando este algoritmo é possível:
 
   [Aqui](main.c), está contido o arquivo onde esta função está implementada.
 
-- **  Atribuir valores manualmente para matrizes**:
+- **Atribuir valores manualmente para matrizes**:
 
   As funções "ManualA" e "ManualB" podem ser utilizadas pelo usuário para atribuir valores manualmente a todas as posições possíveis para a matriz de um tamanho previamente definido, com linhas e colunas maiores que zero.
   Sua construção requer um for para preencher linhas e colunas, com um pedido de entrada para o usuário através de um printf.
