@@ -233,7 +233,7 @@ void PrintB(void){
 
 void PrintC(void){
     int i,j;
-    printf("\n\nIMPRIMIR MATRIZ B\n\n");
+    printf("\n\nIMPRIMIR MATRIZ C\n\n");
      if(colC&&linC){
         for(i=0;i<linC;i++){
             for(j=0;j<colC;j++){
