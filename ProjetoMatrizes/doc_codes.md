@@ -27,7 +27,7 @@ Ou seja, genericamente falando, utilizando este algoritmo é possível:
 
 
 
-- ** Preencher uma matriz com valores aleatórios **:
+- **Preencher uma matriz com valores aleatórios**:
 
   As funções "RandomA" e "RandomB" podem ser usadas para preencher os valores de uma matriz de forma aleatória.
   Sua construção requer a previsão de um erro possível, que é caso quando a matriz não tenha nenhuma linha ou nenhuma coluna, sendo assim impossível preencher a matriz o algoritmo avisa ao usuário que houve um erro.
@@ -42,7 +42,7 @@ Ou seja, genericamente falando, utilizando este algoritmo é possível:
 
   [Aqui](main.c), está contido o arquivo onde esta função está implementada.
 
-- ** Somar, Subtrair ou Multiplicar matrizes **:
+- **Somar, Subtrair ou Multiplicar matrizes**:
 
   As funções "Soma", "Subtracao" e "Multiplicacao" possibilitam operações matemáticas básicas utilizando matrizes para o usuário;
   A construção das três funções requerem que os passos anteriores já tenham sido cumpridos, ou seja, previamente uma matriz teve de ter seu tamanho definiddo e valores preenchidoos, de forma aleatória ou não.
@@ -50,14 +50,14 @@ Ou seja, genericamente falando, utilizando este algoritmo é possível:
 
   [Aqui](main.c), está contido o arquivo onde esta função está implementada.
 
-- ** Exibir uma Matriz **:
+- **Exibir uma Matriz**:
 
   Uma vez definidas, as matrizes podem ser exibidas através das funções "PrintA", "PrintB" e "PrintC";
   Essas funções percorrem as matrizes através da função for, exibindo na tela seus valores segundo suas posições.
 
   [Aqui](main.c), está contido o arquivo onde esta função está implementada.
 
-- ** Ler uma matriz de um arquivo externo **:
+- **Ler uma matriz de um arquivo externo**:
 
   Através de um arquivo externo, previamente adicionado ao algoritmo no arquivo [header](header.h), as funções "ReadfA" e "ReadfB" cumprem essa função.
   É possível acessar uma arquivo externo que foi previamente declarado. Portanto, através da entrada no número de linhas e colunas é possível exibir na tela
@@ -65,13 +65,13 @@ Ou seja, genericamente falando, utilizando este algoritmo é possível:
 
   [Aqui](main.c), está contido o arquivo onde esta função está implementada.
 
-- ** Escrever uma matriz em um arquivo externo **:
+- **Escrever uma matriz em um arquivo externo**:
 
   A função "PrintfC" escreve em um arquivo externo uma matriz C, resultante de alguma operação dentro do algoritmo previamente feita.
   Utilizando "fprint", é possível escrever no documento os elementos de uma matriz e suas dadas posições corretas;
 
   [Aqui](main.c), está contido o arquivo onde esta função está implementada.
 
-- ** Encerrar a execução**?
+- **Encerrar a execução**:
 
   O item de menu 16 termina a execução do programa;
