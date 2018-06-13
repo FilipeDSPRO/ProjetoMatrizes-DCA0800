@@ -3,4 +3,4 @@ Projeto em desenvolvimento para avaliação parcial da disciplina DCA0800 - Algo
 
 
 
-Para ver a documentação desse algoritmo, clique [aqui](doc_codes);
+Para ver a documentação desse algoritmo, clique [aqui](doc_codes.md);
