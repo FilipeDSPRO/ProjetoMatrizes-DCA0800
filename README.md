@@ -4,4 +4,4 @@ Projeto em desenvolvimento para avaliação parcial da disciplina DCA0800 - Algo
 
 Para ver os arquivos pertencentes a esse projeto, clique [aqui](https://github.com/Rohdriggo/ProjetoMatrizes-DCA0800/tree/master/ProjetoMatrizes);
 
-Para acessar a documentação completa desse projeto, clique [aqui](doc_codes.md);
+Para acessar a documentação completa desse projeto, clique [aqui](ProjetoMatrizes/doc_codes.md);
